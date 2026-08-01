@@ -1,4 +1,4 @@
 # Git-Prac
 This repository is for the git &amp; gitHub practice.
 <br>
-Author - Shanyal Javed Ahmad
+Author - Shanyal Javed Ahmad(shaiq)
